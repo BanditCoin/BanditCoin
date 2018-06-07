@@ -1,0 +1,9 @@
+Building Banditcoin
+
+See doc/readme-qt.rst for instructions on building Banditcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Banditcoin.
+
+See doc/build-*.txt for instructions on building banditcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Banditcoin.
